@@ -6,7 +6,7 @@
 
 NetTwin is a Digital Twin architecture for IoT networks that combines Software-Defined Networking (SDN), real-time telemetry (MQTT), AI-based intrusion detection, and self-healing mechanisms to monitor, manage, and secure IoT infrastructure.
 
-The system was developed as a 2CS engineering project at the Higher School of Computer Science (ESI-SBA), Algeria.
+The system was developed as a 2nd-year Higher Cycle (2CS) engineering project at the Higher School of Computer Science (ESI-SBA), Algeria.
 
 ![NetTwin Architecture](assets/architecture.png)
 
@@ -37,8 +37,6 @@ The system was developed as a 2CS engineering project at the Higher School of Co
 ## Demo Video
 
 [Watch the demo](https://youtu.be/XXXXXXXXX) *(replace with your actual link)*
-
-## Project Report
 
 ## Project Report
 
