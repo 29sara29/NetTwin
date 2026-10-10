@@ -40,7 +40,7 @@ The system was developed as a 2nd-year Higher Cycle (2CS) engineering project at
 
 ## Project Report
 
-[Download the full report](docs/report.pdf)
+[Download the full report](docs/NetTwin report.pdf)
 
 ## Technologies Used
 
