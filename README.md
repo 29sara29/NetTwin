@@ -38,9 +38,10 @@ The system was developed as a 2nd-year Higher Cycle (2CS) engineering project at
 
 [Watch the demo](https://youtu.be/XXXXXXXXX) *(replace with your actual link)*
 
-## Project Report
+## Documentation
 
-[Download the full report](docs/NetTwin report.pdf)
+[Technical overview](docs/overview.md) — summary of the architecture and key components.
+
 
 ## Technologies Used
 
