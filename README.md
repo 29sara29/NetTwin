@@ -8,6 +8,8 @@ NetTwin is a Digital Twin architecture for IoT networks that combines Software-D
 
 The system was developed as a 2CS engineering project at the Higher School of Computer Science (ESI-SBA), Algeria.
 
+![NetTwin Architecture](assets/architecture.png)
+
 ## Key Features
 
 - **Digital Twin** of an IoT network (Raspberry Pi, ESP8266 nodes)
@@ -38,7 +40,9 @@ The system was developed as a 2CS engineering project at the Higher School of Co
 
 ## Project Report
 
-[Download the full report](report.pdf) *(if you upload the PDF to the root, keep this link; if you place it in a `docs/` folder, change to `docs/report.pdf`)*
+## Project Report
+
+[Download the full report](docs/report.pdf)
 
 ## Technologies Used
 
