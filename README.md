@@ -36,7 +36,7 @@ The system was developed as a 2nd-year Higher Cycle (2CS) engineering project at
 
 ## Demo Video
 
-[Watch the demo](https://github.com/29sara29/NetTwin/releases/download/v1.0/nettwin.webm) *(replace with your actual link)*
+[Watch the demo](https://youtu.be/TRUVGbu3Qao) *(replace with your actual link)*
 
 ## Documentation
 
