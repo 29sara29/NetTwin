@@ -128,13 +128,13 @@ Every request passes through 3 sequential steps:
 
 - **Dataset:** NSL-KDD (41 features)
 - **Model:** Random Forest Classifier
-- **Classes:** Normal, DDoS, Probe, R2L, U2R
+- **Classes:** Normal, DoS, Probe, R2L, U2R
 
 ### Detection Rates (10-fold cross-validation)
 | Class | Detection | FP Rate |
 |---|---|---|
 | Normal | 97.2% | 1.8% |
-| DDoS | 98.1% | 0.9% |
+| DoS | 98.1% | 0.9% |
 | Probe | 96.0% | 2.1% |
 | R2L | 94.3% | 2.8% |
 | U2R | 92.7% | 3.2% |
