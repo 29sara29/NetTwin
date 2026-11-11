@@ -16,7 +16,7 @@ The system was developed as a 2nd-year Higher Cycle (2CS) engineering project at
 - **SDN/OpenFlow** control via Ryu controller
 - **MQTT** telemetry for real-time state synchronization
 - **InfluxDB + Grafana** for monitoring and visualization
-- **AI-based intrusion detection** (Random Forest) for DDoS, U2R, R2L attacks
+- **AI-based intrusion detection** (Random Forest) for DoS, U2R, R2L attacks
 - **Self-healing** logic for fault tolerance
 - **VLAN security** and network segmentation
 - **Edge surveillance node** with video streaming and motion detection
